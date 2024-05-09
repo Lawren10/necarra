@@ -1,0 +1,8 @@
+.nav-container {
+ width: 100wv;
+ height: auto;
+ padding: 1.5rem 3rem;
+ position: fixed;
+ top: 0;
+ right: 0;
+}
